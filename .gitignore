@@ -1,0 +1,7 @@
+# OS files
+
+.os*
+*.os
+
+# local env files
+.env*
